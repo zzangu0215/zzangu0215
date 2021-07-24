@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋. My name is Jun Park. Check out my [**😎PORTFOLIO**](https://zzangu0215.github.io/portfolio/)
+
+- 🔭 I’m currently working on [**E-Commerce-Backend**](https://github.com/zzangu0215/e-commerce-backend)
+- ⚡ The powerful projects from me.
+    - **Group Projects**: [**FANTOM**](https://github.com/zzangu0215/fantom)
+    - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**Weather Dashboard**](https://github.com/zzangu0215/Weather_Dashboard)
+
+- 📫 How to reach me:
+    - [**LinkedIn**](https://www.linkedin.com/in/junnyzzangu/)
+    - Email: [**tajo0215@gmail.com**](tajo0215@gmail.com)
+    - SNS: [**Instagram**](https://www.instagram.com/o0ojunny/)
 
 <!--
 **zzangu0215/zzangu0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
