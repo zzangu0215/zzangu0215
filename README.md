@@ -8,7 +8,7 @@
 - 📫 How to reach me:
     - [**LinkedIn**](https://www.linkedin.com/in/junnyzzangu/)
     - Email: [**tajo0215@gmail.com**](tajo0215@gmail.com)
-    - SNS: [**Instagram**](https://www.instagram.com/o0ojunny/)
+    - [**Instagram**](https://www.instagram.com/o0ojunny/)
 
 <!--
 **zzangu0215/zzangu0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
