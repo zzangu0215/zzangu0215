@@ -1,9 +1,9 @@
 ### Hi there 👋. My name is Jun Park. Check out my [**😎PORTFOLIO**](https://zzangu0215.github.io/portfolio/)
 
-- 🔭 I’m currently working on [**E-Commerce-Backend**](https://github.com/zzangu0215/e-commerce-backend)
+- 🔭 I’m currently working on [**MyKNL Project**](https://github.com/zzangu0215/zzangu-and-the-pals)
 - ⚡ The powerful projects from me.
     - **Group Projects**: [**FANTOM**](https://github.com/zzangu0215/fantom)
-    - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**Weather Dashboard**](https://github.com/zzangu0215/Weather_Dashboard)
+    - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend)
 
 - 📫 How to reach me:
     - [**LinkedIn**](https://www.linkedin.com/in/junnyzzangu/)
