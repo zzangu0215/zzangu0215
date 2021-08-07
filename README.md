@@ -11,6 +11,7 @@
 
   - **Group Projects**: [**FANTOM**](https://github.com/zzangu0215/fantom), [**MyKNL Project**](https://github.com/zzangu0215/zzangu-and-the-pals)
   - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend)
+  - **Gist**: [**Regex Tutorial**](https://gist.github.com/zzangu0215)
 
 - 🌱 I’m currently learning **NoSQL, REACT**
 
