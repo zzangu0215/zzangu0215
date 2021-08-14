@@ -5,12 +5,12 @@
 
 - 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://portfolio-v2-sjp.herokuapp.com/)
 
-- 🔭 I’m currently working on [**MyKNL ZAP**](https://github.com/zzangu0215/zzangu-and-the-pals)
+- 🔭 I’m currently working on [**Budget Tracker**](https://github.com/zzangu0215/budget-tracker)
 
 - ⚡ The powerful projects from me.
 
   - **Group Projects**: [**FANTOM**](https://github.com/zzangu0215/fantom), [**MyKNL Project**](https://github.com/zzangu0215/zzangu-and-the-pals)
-  - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend)
+  - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend), [**Workout Tracker**](https://github.com/zzangu0215/workout-tracker)
   - **Gist**: [**Regex Tutorial**](https://gist.github.com/zzangu0215)
 
 - 🌱 I’m currently learning **NoSQL, REACT**
