@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzangu0215&label=Profile%20views&color=0e75b6&style=flat" alt="zzangu0215" /> </p>
 
-- 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://portfolio-v2-sjp.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://zzangu0215.github.io/portfolio-v3/)
 
 - 🔭 I’m currently working on [**Budget Tracker**](https://github.com/zzangu0215/budget-tracker)
 
