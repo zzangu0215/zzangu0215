@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://zzangu0215.github.io/portfolio-v3/)
 
-- 🔭 I’m currently working on [**Budget Tracker**](https://github.com/zzangu0215/budget-tracker)
+- 🔭 I’m currently working on [**Book Search Engine**](https://github.com/zzangu0215/book-search-engine)
 
 - ⚡ The powerful projects from me.
 
