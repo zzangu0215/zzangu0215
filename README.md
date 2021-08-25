@@ -5,12 +5,12 @@
 
 - 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://zzangu0215.github.io/portfolio-v3/)
 
-- 🔭 I’m currently working on [**Book Search Engine**](https://github.com/zzangu0215/book-search-engine)
+- 🔭 I’m currently working on [**JOBBEE Project**](https://github.com/zzangu0215/jobbee)
 
 - ⚡ The powerful projects from me.
 
   - **Group Projects**: [**FANTOM**](https://github.com/zzangu0215/fantom), [**MyKNL Project**](https://github.com/zzangu0215/zzangu-and-the-pals)
-  - **Personal Projects**: [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend), [**Workout Tracker**](https://github.com/zzangu0215/workout-tracker)
+  - **Personal Projects**: [**Book Search Engine**](https://github.com/zzangu0215/book-search-engine), [**Employee Tracker**](https://github.com/zzangu0215/employee-tracker), [**Team Profile Generator**](https://github.com/zzangu0215/Team-Profile-Generator), [**E-Commerce Backend**](https://github.com/zzangu0215/e-commerce-backend), [**Workout Tracker**](https://github.com/zzangu0215/workout-tracker)
   - **Gist**: [**Regex Tutorial**](https://gist.github.com/zzangu0215)
   - [**Shell Script Shortcuts**](https://github.com/zzangu0215/shell-shortcuts)
 
