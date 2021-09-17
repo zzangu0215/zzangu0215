@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [**PORTFOLIO**](https://zzangu0215.github.io/portfolio-v3/)
 
-- 🔭 I’m currently working on [**JOBBEE Project**](https://github.com/zzangu0215/jobbee)
+- 🔭 I’m currently working on [**JOBBEE Project**](https://github.com/zzangu0215/jobbee), [**UCSD Kojobs**](https://github.com/zzangu0215/ucsd-kojobs)
 
 - ⚡ The powerful projects from me.
 
