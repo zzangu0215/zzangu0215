@@ -1,8 +1,8 @@
-<h1 align="center">alert("Jun Park")</h1>
+<h1 align="center">`${const Jun_Park}`</h1>
 
 <h3 align="center">A passionate full stack developer who loves Dog.</h3>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=2be0e3&height=300&section=header&text=Intuition%20render&fontColor=ffffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=2be0e3&height=300&section=header&text=Intuitive&fontColor=ffffff&fontSize=90)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzangu0215&label=Profile%20views&color=0e75b6&style=flat" alt="zzangu0215" /> </p>
 
