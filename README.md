@@ -1,5 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=PT+Mono&display=swap" rel="stylesheet">
-<h1 align="center" style="font-family: 'PT Mono', monospace;">const Jun_Park = () => { return Passionate; }</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace;">const Jun_Park = () => { return Passionate; }</h1>
 
 <h3 align="center">A passionate full stack developer who loves Dog.</h3>
 
