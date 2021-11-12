@@ -89,9 +89,9 @@
 <a href="https://www.youtube.com/channel/UCk_a__J10fet0xEe_dSNBKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uck_a__j10fet0xee_dsnbkw" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzangu0215&show_icons=true&locale=en&layout=compact" alt="zzangu0215" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzangu0215&show_icons=true&locale=en" alt="zzangu0215" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzangu0215&show_icons=true&locale=en" alt="zzangu0215" /></p> -->
 
 <!--
 **zzangu0215/zzangu0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
