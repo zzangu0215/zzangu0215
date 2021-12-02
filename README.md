@@ -18,7 +18,7 @@
   - **Tutorial**: [**Contact Form Tutorial**](https://github.com/zzangu0215/contact-form-tutorial)
   - [**Shell Script Shortcuts**](https://github.com/zzangu0215/shell-shortcuts)
 
-- 🌱 I’m currently studying [**Algorithm Practice**](https://github.com/zzangu0215/algorithm-practice). 
+- 🌱 I’m currently studying [**Algorithm Practice**](https://github.com/zzangu0215/algorithm-practice), and **Ruby on Rails** 
 
 - 📫 How to reach me: **tajo0215@gmail.com**
 
